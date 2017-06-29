@@ -10,10 +10,10 @@ Loading the code into Arduino
 Open:Studio-del-moto-uniformememte-accelerato-con-arduino/client/index.
 ## Open the server.
 Open terminal.
-write: sudo dnf install nodejs.
-Write: cd Desktop.
-Write: cd Studio-del-moto-uniformemente-accerato-con-arduino.
-Write: cd server.
-Write: sudo node server.js.
+Write: `sudo dnf install nodejs`
+Write: `cd Desktop`
+Write: `cd Studio-del-moto-uniformemente-accerato-con-arduino`
+Write: `cd server`
+Write: `sudo node server.js`
 ## Experiment.
 Start Arduino, and look how the graphic change in raltion to the collected data by Arduino
