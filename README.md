@@ -14,15 +14,13 @@ Loading the code into Arduino
 Open: `Studio-del-moto-uniformememte-accelerato-con-arduino/client/index.html`
 
 ## Open the server.
-Open terminal.
+Prerequisites: `nodejs installed`
 
-Write: `sudo dnf install nodejs`
-
-Write: `cd Desktop`
-
-Write: `cd Studio-del-moto-uniformemente-accerato-con-arduino`
+Open terminal:
 
 Write: `cd server`
+
+Write: `npm install`
 
 Write: `sudo node server.js`
 
