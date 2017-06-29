@@ -27,4 +27,4 @@ Write: `cd server`
 Write: `sudo node server.js`
 
 ## Experiment.
-Start Arduino, and look how the graphic change in raltion to the collected data by Arduino
+Start Arduino, and look how the graphic change in relation to the collected data by Arduino
