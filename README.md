@@ -1,15 +1,19 @@
-Empty README
-------------
+
+
 # Studio del moto uniformemente accelerato con Arduino.
-## Costruire il circuito di arduino.
-Segui la foto fatta con fritzing.
-## Programmare Arduino.
-Apri il file scketch.ino, e quindo compila arduino.
-## Avviare la pagina web.
-Aprire la cartella nominata "Client", avviare dunque il file index.html.
-## Avviare il server.
-Installare sul pc node.js.
-Aprire il terminale, spostarsi all'interno della cartella nominata "server" con il comando cd nome cartella.
-Avviare il file server.js con il comando sudo node server.js.
-## Esperimento.
-Attivare Arduino per vedere come si forma il grafico a seconda dei dati raccolti  
+## Assembly Ardunio.
+Open: Studio-del-moto-uniformememte-accelerato-con-arduino/hardware/HardwareArduino.
+## Programming Arduino.
+Open:Studio-del-moto-uniformememte-accelerato-con-arduino/arduino/sketch/sketch.ino
+Loading the code into Arduino
+## Open the web page.
+Open:Studio-del-moto-uniformememte-accelerato-con-arduino/client/index.
+## Open the server.
+Open terminal.
+write: sudo dnf install nodejs.
+Write: cd Desktop.
+Write: cd Studio-del-moto-uniformemente-accerato-con-arduino.
+Write: cd server.
+Write: sudo node server.js.
+## Experiment.
+Start Arduino, and look how the graphic change in raltion to the collected data by Arduino
