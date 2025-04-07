@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rombaldoni"
+  given-names: "Francesco"
+title: "Studio-del-moto-uniformemente-accelerato-con-arduino"
+version: 1.0.0
+date-released: 2025-04-07
+url: "https://github.com/R0mb0/Studio-del-moto-uniformemente-accelerato-con-arduino"
